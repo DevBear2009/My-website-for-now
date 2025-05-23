@@ -2,12 +2,12 @@ body {
     font-family: Consolas;
     margin: 0;
     padding: 0;
-    background-color: #FFFFFF;
+    background-color: #1E1E1E;
     color: #1E464E;
 }
 
 header {
-    background-color: #FFFFFF;
+    background-color: #1E1E1E;
     padding: 25px;
     align-content: center;
     font-size: xx-large;
@@ -50,7 +50,7 @@ header {
 
 
 footer {
-    background-color: #FFFFFF;
+    background-color: #1E1E1E;
     padding: 20px;
     text-align: center;
 }
